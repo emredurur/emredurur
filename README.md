@@ -36,12 +36,12 @@ In addition to software-side development, I also participated in hardware-relate
 
 Alongside my engineering interests, I have also developed projects using:
 
+* Python
 * C#
 * Windows Forms
 * SQL Server
 * Flutter
-* SQLite
-* Python
+
 
 These projects helped me improve my understanding of software development, database systems, structured problem solving, and practical implementation.
 
